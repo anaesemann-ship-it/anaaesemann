@@ -8,7 +8,7 @@ Sou estudante aprendendo sobre tecnologia, criando projetos nas áreas de **web*
 ## 📫 Contatos
 - ✉️ Email: ana_esemann@estudante.sesisenai.org.br 
 - 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
-- 📷 Instagram: [@seuuser](https://instagram.com/seuuser)  
+
 
 ## 💻 Tecnologias que conheço
 - HTML, CSS, JavaScript  
